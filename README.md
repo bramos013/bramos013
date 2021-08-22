@@ -3,9 +3,9 @@
 
 #### Me chamo Bruno Ramos!
 
-- 💻 Estudante de Engenharia de Software(PUCRS);
+- 💻 Software Engineering Student | PUCRS;
+- :crown: Hosting Operations Analyst | KingHost
 - 📚 Clean Code;
-- 📤 Como Objetivo busco explorar e aperfeiçoar técnicas para ser um DevOps
 
 <br><br>
 #### *Linguagens e Ferramentas*
