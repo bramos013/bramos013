@@ -11,10 +11,10 @@
 #### *Linguagens e Ferramentas*
 
 <a href="https://github.com/bramos013">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bramos013&show_icons=true&theme=dark" />
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=bramos013&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/bramos013">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramos013&theme=dark&layout=compact" />
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramos013&theme=dark&layout=compact%10" />
 </a>
 
 <br><br>
