@@ -40,3 +40,6 @@
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/sr1bramos/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/sr1bramos/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:brunoramos013@gmail.com)
 |:---:|:---:|:---:|
+
+<br><br>
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=bramos013)
