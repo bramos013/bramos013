@@ -3,9 +3,9 @@
 
 #### Me chamo Bruno Ramos!
 
-- 💻 Software Engineering Student | PUCRS;
-- :crown: Hosting Operations Analyst | KingHost
-- 📚 Clean Code;
+- 💻 Eng. Software | PUCRS;
+- :crown: Analista de Operações de Hosting | KingHost
+- 📚 DevOps/Clean Code;
 
 <br>
 
