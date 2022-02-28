@@ -42,4 +42,5 @@
 |:---:|:---:|:---:|
 
 <br><br>
- ![Profile View Counter](https://komarev.com/ghpvc/?username=bramos013)
+ 
+ ![](https://komarev.com/ghpvc/?username=bramos013&label=Visitantes)
