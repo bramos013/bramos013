@@ -4,7 +4,7 @@
 #### Me chamo Bruno Ramos!
 
 - 💻 Eng. Software | PUCRS;
-- :crown: Developer | Denakop;
+- 💻 Developer | Denakop;
 - 📚 DevOps/Clean Code;
 
 <br>
