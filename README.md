@@ -4,7 +4,7 @@
 #### Me chamo Bruno Ramos!
 
 - 💻 Eng. Software | PUCRS;
-- :crown: Analista de Operações de Hosting | KingHost
+- :crown: Developer | Denakop;
 - 📚 DevOps/Clean Code;
 
 <br>
