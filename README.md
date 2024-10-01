@@ -1,4 +1,4 @@
-### Olá, meu nome é Bruno!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">
+### Olá, meu nome é Bruno!<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="24px">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=bramos013&color=006bed&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
@@ -89,10 +89,10 @@ Linguagens & Tecnologias: `Javascript`, `PHP`, `Linux`,`Windows`\
     <a href="https://wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a> 
 </p>
     
-## *Contato* <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="24px">
+## *Contato* <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Handshake.gif" height="24px">
 
 <p align="left">
-    <a href="mailto:brunoramos013@gmail.com" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Email" width="35" height="35"/> </a> 
-    <a href="https://www.instagram.com/sr1bramos/" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram" width="35" height="35"/> </a> 
-    <a href="https://www.linkedin.com/in/sr1bramos/" target="_blank"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin" width="35" height="35"/> </a> 
+    <a href="mailto:brunoramos013@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Gmail.svg" alt="Email" width="35" height="35"/> </a> 
+    <a href="https://www.instagram.com/sr1bramos/" target="_blank"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Instagram.svg" alt="Instagram" width="35" height="35"/> </a> 
+    <a href="https://www.linkedin.com/in/sr1bramos/" target="_blank"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Linkedin.svg" alt="Linkedin" width="35" height="35"/> </a> 
 </p>
